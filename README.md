@@ -13,7 +13,7 @@ hide(qA('main :not(.content)'));
 remove(id("popup"))
 // remove an element with the id of popup from the DOM
 remove(qA(".popups"))
-// Works with multiple elements
+// Works when selecting multiple elements
 ```
 
 ```javascript
